@@ -1,4 +1,2 @@
-git branch-> opens the list of local  branchs
+git branch-> opens the list of brances
 git branch branch name-> creates anew branch.
-git branch -r->it will give list in remote branches
-git branch -a->it will give list in both
