@@ -1,0 +1,2 @@
+git branch-> opens the list of brances
+git branch branch name-> creates anew branch.
